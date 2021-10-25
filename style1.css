@@ -1,0 +1,30 @@
+*{
+	font-family: monserrat;
+	font-size: 20px;
+}
+#features{
+	margin-top: 30px;
+}
+footer{
+	background-color: black;
+	color: white;
+}
+.border{
+	border: white;
+	background-color: white;
+}
+.footer-link{
+	color: white;
+}
+.img-container{
+	text-align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+	list-style: none;
+}
+.padding{
+	padding: 20px;
+}
